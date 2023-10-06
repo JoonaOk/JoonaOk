@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoonaOk
-- 👀 I’m interested in mathematics and physics. Particulary in quantum physics.
-- 🌱 I’m currently learning as much math as I can
+- 👀 I’m interested in mathematics and physics 
+- 🌱 I’m currently learning as much math/physics as I can
 - 📫 You can reach me by my email: joeoks@utu.fi
 
 <!---
